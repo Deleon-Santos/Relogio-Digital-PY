@@ -1,5 +1,5 @@
 ## Relógio Digital em Python com CustomTkinter
-![Descrição da imagem](relogio)
+![Descrição da imagem](relogio.png)
 
 ### Descrição
 
