@@ -3,9 +3,9 @@ import time
 import customtkinter as ctk
 
 def tempo():
-    hora = time.strftime('%H:%M:%S')
+    hora = time.strftime('%H:%M:%S')#paga o horaio (Hora , minuto e sugundos)
     
-    display.configure(text=hora)
+    display.configure(text=hora)#mostra no display
     display.after(1000,tempo)
 
 janela = ctk.CTk()
